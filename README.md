@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YigitMemceroktay
+- 👋 Hi, I’m @YukiNumata
 - 👀 I’m interested in Computer Science, Graphics Programming, OpenGL
 - 🌱 I’m currently learning C++,OpenGL API, Game Engine Arcitechture, React JS, React Native, Mobile App Programming
 - 💞️ I’m looking to collaborate on ...
